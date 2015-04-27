@@ -14,13 +14,16 @@ You can obtain an API key by signing up for a free account.
 Create a single-page web application that allows end users to interact with the service. Feel free to include any features that seem relevant, useful, and/or just plain cool given the data available.
 
 
-##### Back End
+##### Backend
 Create an API that allows client apps to access all data available through ParkWhiz data. Clients should be able to create user accounts in your system as well as create, retrieve and remove "favorite" parking locations with customizable names. Include documentation for your API in the form of a README.md file.
+
+#### Bonus Points
+Feel free to use any languages, frameworks and platforms you'd like. We think great developers can pick up any unfamiliar tools as/when needed, and it's not a requirement that you use a particular stack. That said, we'd be especially interested in solutions built in part with modern JavaScript frameworks (e.g. Angular or React for the front end and Node.js for the backend). If you're familiar with these already (or have been wanting to learn), you might want to take this opportunity to show us what you've got! :)
 
 #### Review
 When reviewing your submission, we'll be looking at the following:
 - Interface Quality
-  - Is the interface's design and implementation (UI for front end, API interface for back end) polished and consistent?
+  - Is the interface's design and implementation (UI for front end, API interface for backend) polished and consistent?
 
 - Code Quality
   - Is the code reasonably easy to understand and well-organized?
