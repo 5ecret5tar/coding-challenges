@@ -13,7 +13,7 @@ You can obtain an API key by signing up for a free account.
 
 #### Coding Options
 ##### Front End (Web)
-Create a single-page web application that allows end users to interact with the service. Feel free to include any features that seem relevant, useful, and/or just plain cool given the data available.
+Create a single-page web application that allows end users to interact with the service (ex: render a table of parking lot info and/or a map of lot locations). Feel free to include any features that seem relevant, useful, and/or just plain cool given the data available.
 
 
 ##### Backend
