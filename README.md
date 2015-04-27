@@ -23,7 +23,7 @@ Feel free to use any languages, frameworks and platforms you'd like. We think gr
 #### Review
 When reviewing your submission, we'll be looking at the following:
 - Interface Quality
-  - Is the interface's design and implementation (UI for front end, API interface for backend) polished and consistent?
+  - Is the interface's design and implementation (UI for front end, API for backend) polished and consistent?
 
 - Code Quality
   - Is the code reasonably easy to understand and well-organized?
