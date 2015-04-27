@@ -6,7 +6,7 @@ A collection of coding challenges for Luxe Engineering.
 #### Description
 Create a service that allows users to access data about parking lots. Use the open ParkWhiz API for source data:
 
-[https://www.parkwhiz.com/developers][https://www.parkwhiz.com/developers)
+[https://www.parkwhiz.com/developers](https://www.parkwhiz.com/developers)
 
 You can obtain an API key by signing up for a free account.
 
