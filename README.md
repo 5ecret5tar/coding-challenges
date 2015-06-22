@@ -37,4 +37,4 @@ When reviewing your submission, we'll be looking at the following:
 
 When you're all done, put it up somewhere on the web that we can see it (Amazon S3, EC2, Heroku, etc.)! We'll take some time to interact with the live app.
 
-The source code for your solution should be submitted in the form of a link to a github repo under your own account or as a *.zip or *.tgz file emailed to [engineering@luxevalet.com](mailto:engineering@luxevalet.com).
+The source code for your solution should be submitted in the form of a link to a github repo under your own account or as a *.zip or *.tgz file emailed to the contact who sent you this challenge.
